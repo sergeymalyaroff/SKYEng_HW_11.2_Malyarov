@@ -5,6 +5,8 @@ def to_uppercase(input_string):
     return input_string.upper()
 def capitalize_first_letters(input_string):
     """
-    This function takes a string and returns it with the first letter of each word capitalized.
+    NEW: This function takes a string and returns it with the first letter of each word capitalized.
     """
     return input_string.title()
+
+
